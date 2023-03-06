@@ -2,7 +2,7 @@
     "name": "Hot",
     "color": "#D1CD44",
     "rarity": 4,
-    "seaBiomeZoom": 0.5,
+    "seaBiomeZoom": 1.5,
     "landBiomes": [
         "hot/desert-dunes",
         "hot/Small_Valley",
@@ -15,6 +15,25 @@
         "mesa/plateau-high",
         "mesa/valleys",
         "mesa/mesa"
+    ],
+    "jigsawStructures": [
+        {
+        "structure": "ruined-portal",
+        "rarity": 1200
+        },
+        {
+        "structure": "dungeon-skeleton",
+        "rarity": 800
+        },
+        {
+        "structure": "dungeon-spider",
+        "rarity": 800
+        },
+        {
+        "structure": "dungeon-zombie",
+        "rarity": 800
+        }
+
     ],
 
     "objects": [
@@ -110,6 +129,7 @@
             "particleCount": 0
         }
     ],
+
     "carving": {
         "ravines": [
             {

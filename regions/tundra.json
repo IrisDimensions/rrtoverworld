@@ -16,12 +16,25 @@
         "mountain/plains",
         "mountain/cliffs",
         "mountain/mountain",
-        "tundra/ether"
+        "tundra/ether",
+        "tundra/magic-forest"
     ],
     "jigsawStructures": [{
         "structure": "ruined-portal",
         "rarity": 1200
-    }],
+    },
+    {
+        "structure": "dungeon-skeleton",
+        "rarity": 800
+        },
+        {
+        "structure": "dungeon-spider",
+        "rarity": 800
+        },
+        {
+        "structure": "dungeon-zombie",
+        "rarity": 800
+        }],
 
     "objects": [{
         "heightmap": {
@@ -67,18 +80,13 @@
         "tundra/shore/beach",
         "tundra/shore/beach-stone"
     ],
+    "seaBiomeZoom": 2,
     "seaBiomes": ["mountain/sea/river"],
     "entitySpawners": [
         "tundra/passive",
         "tundra/hostile",
         "tundra/cave",
         "tundra/water"
-    ],
-    "riverBiomes": [
-        "tundra/sea/river",
-        "tundra/sea/river-rocky",
-        "mountain/sea/river",
-        "mountain/sea/river-soft"
     ],
     "deposits": [{
         "minHeight": 20,
@@ -90,7 +98,6 @@
         "palette": [{"block": "minecraft:emerald_ore"}],
         "varience": 8
     }],
-    "riverRarity": 1,
     "landBiomeZoom": 4.5,
     "shoreHeightMin": 2.2,
     "shoreHeightMax": 5.2,

@@ -12,12 +12,29 @@
         "temperate/birch-forest",
         "temperate/longtree-forest",
         "temperate/oak-forest",
+        "temperate/osaka-violet-forest",
+        "temperate/osaka-red-forest",
         "mountain/Cute_Cliffs"
+    ],
+    "caveBiomes": [
+        "carving/CaveBiomes/Rocky"
     ],
     "jigsawStructures": [{
         "structure": "ruined-portal",
         "rarity": 1200
-    }],
+    },
+    {
+        "structure": "dungeon-skeleton",
+        "rarity": 800
+        },
+        {
+        "structure": "dungeon-spider",
+        "rarity": 800
+        },
+        {
+        "structure": "dungeon-zombie",
+        "rarity": 800
+        }],
 
     "objects": [
         {
@@ -65,11 +82,10 @@
         "temperate/shore/beach",
         "temperate/shore/oak-beach"
     ],
+    "seaBiomeZoom": 3,
     "seaBiomes": [
-        "temperate/sea/river",
         "ocean/deep"
     ],
-    "riverBiomes": ["temperate/sea/river"],
     "ENTITY_SPAWNS": "ALL ENTITY SPAWNS FOR THE REGION",
     "entitySpawners": [
         "temperate/passive",

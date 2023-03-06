@@ -13,6 +13,7 @@
         "axialFracturing": true,
         "zoom": 6
     },
+
     "logicalHeight": 512,
     "dimensionHeight": {
         "max": 512,
@@ -23,12 +24,13 @@
         "max": 448,
         "min": -64
     },
+
     "logicalHeightNether": 448,
     "dimensionHeightNether": {
         "max": 448,
         "min": -64
     },
-    "landChance": 0.69,
+    "landChance": 0.39,
     "regionStyle": {
         "style": "NOWHERE_CELLULAR",
         "fracture": {

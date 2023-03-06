@@ -12,7 +12,21 @@
     "jigsawStructures": [{
         "structure": "ruined-portal",
         "rarity": 1200
-    }],
+        },
+        {
+        "structure": "dungeon-skeleton",
+        "rarity": 800
+        },
+        {
+        "structure": "dungeon-spider",
+        "rarity": 800
+        },
+        {
+        "structure": "dungeon-zombie",
+        "rarity": 800
+        }
+        ],
+
 
     "objects": [
         {
@@ -58,8 +72,8 @@
     ],
     "shoreBiomes": ["frozen/shore/beach"],
     "seaBiomes": [
-        "frozen/sea/frozen-river-ice",
-        "frozen/sea/ocean"
+        "frozen/sea/ocean",
+        "frozen/sea/frozen-river-ice"
     ],
     "deposits": [
         {

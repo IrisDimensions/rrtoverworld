@@ -12,7 +12,6 @@
         "waterFogColor": "#80B4C6",
         "fogColor": "#8091C6"
     }],
-    "children": ["tundra/taiga-extended"],
     "generators": [{
         "max": 42,
         "min": 34,

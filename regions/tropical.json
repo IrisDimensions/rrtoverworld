@@ -18,7 +18,19 @@
     "jigsawStructures": [{
         "structure": "ruined-portal",
         "rarity": 1200
-    }],
+    },
+    {
+        "structure": "dungeon-skeleton",
+        "rarity": 800
+        },
+        {
+        "structure": "dungeon-spider",
+        "rarity": 800
+        },
+        {
+        "structure": "dungeon-zombie",
+        "rarity": 800
+        }],
     "objects": [
         {
             "heightmap": {
@@ -66,10 +78,10 @@
         "tropical/beach",
         "tropical/beach-bamboo"
     ],
+    "seaBiomeZoom": 2,
     "seaBiomes": [
         "tropical/submerged-volcanic",
-        "tropical/sea/ocean",
-        "tropical/sea/river-soft"
+        "tropical/sea/ocean"
     ],
     "carving": {
         "ravines": [{
