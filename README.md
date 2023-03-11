@@ -2,7 +2,7 @@
 RePixelatedMC's Remastered Terrain, Overworld Edition made with the _**Iris Dimension Engine**_
 
 **Intoduction** 
-RRT Overworld is a more vanilla friendly pack while still trying to keep a good and fresh look to the overworld dimension with large mountains and a lot of place to build bases. Sadly RRT Overworld doesnt yet feature the ancient city and the ocean monument but that will be coming in the near future. But it does feature a woodland mansion.
+RRT Overworld is a more vanilla friendly pack while still trying to keep a good and fresh look to the overworld dimension with large mountains and a lot of place to build bases. RRT Overworld does feature a woodland mansion and a ocean monument what the Overworld pack currently doesn't have.
 
 **How to install?**
 Very simple! Just run the `/iris download pack=rrtoverworld branch=main` command and the server should automatically restart after a little while if it doesnt restart it manually.
